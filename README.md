@@ -1,10 +1,22 @@
-<a >
-    <h2 style="text-align:center">Mathematics, Machine Learning, Computational Biology, High Performance Computing </h2>
-
-</a>
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+Mathematics, Machine Learning, Computational Biology, High-Performance Computing
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
 <a href="https://github-readme-stats-nine-cyan-35.vercel.app/api/top-langs/?username=enriquemondragon&size_weight=0.5&count_weight=0.5&langs_count=20&&layout=compact&hide=jupyter%20notebook,html,makefile,css,swift,ruby">
   <img height=200 align="center" src="https://github-readme-stats-nine-cyan-35.vercel.app/api/top-langs/?username=enriquemondragon&size_weight=0.5&count_weight=0.5&langs_count=20&&layout=compact&hide=jupyter%20notebook,html,makefile,css,swift,ruby" />
 </a>
+</p>
+</th>
+</table>
 
 
 <!--
