@@ -1,4 +1,6 @@
-### Hi there 👋
+![Top Langs](https://github-readme-stats-nine-cyan-35.vercel.app/api/top-langs/?username=enriquemondragon&size_weight=0.5&count_weight=0.5&langs_count=20&&layout=compact&hide=jupyter%20notebook,html,makefile,css,swift,ruby)
+![image](https://github.com/enriquemondragon/enriquemondragon/assets/101150878/befe5e07-0fab-4fcb-ae1c-25f80586a2d2)
+
 
 <!--
 **enriquemondragon/enriquemondragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
