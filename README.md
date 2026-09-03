@@ -1,4 +1,4 @@
-- I am an engineer specializing in computational biology interested in decoding the natural world.
+- I am a PhD student specializing in computational biology interested in decoding the natural world.
 
 <table>
 <tr>
